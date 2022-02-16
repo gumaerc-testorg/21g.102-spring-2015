@@ -1,5 +1,8 @@
 ---
 content_type: page
+learning_resource_types:
+- Assignments
+ocw_type: CourseSection
 title: Assignments
 uid: 725772d5-7e7b-c1f6-de48-55bd713c6adc
 ---
@@ -1383,7 +1386,7 @@ _FACT:_ _Between Traditional and Simplified_
 {{< tdopen >}}
 49
 {{< tdclose >}}
-{{< tdopen >}}
+{{< tdopen rowspan="2" >}}
 
 
 _Final Oral Interview: All contents of \[BSC\] Unit 6 to Unit 10_
@@ -1392,7 +1395,7 @@ Follow the preparation guidelines of Final Oral Interview in [Related Resources]
 
 
 {{< tdclose >}}
-{{< tdopen >}}
+{{< tdopen rowspan="2" >}}
 
 
 _Final Oral Interview_
@@ -1401,7 +1404,7 @@ No regular class! Show up at your Final Oral Interview on time!
 
 
 {{< tdclose >}}
-{{< tdopen >}}
+{{< tdopen rowspan="2" >}}
  n/a
 {{< tdclose >}}
 

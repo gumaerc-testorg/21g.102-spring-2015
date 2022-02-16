@@ -1,5 +1,7 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: CourseSection
 title: Review Test Format
 uid: 602e1744-90f5-536c-e38e-272313c68dc7
 ---
