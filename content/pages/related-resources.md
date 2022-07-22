@@ -1,5 +1,10 @@
 ---
 content_type: page
+description: This section provides recommended study procedures for spoken and written
+  Chinese classes, and resources for MIT students interested in working, teaching,
+  or studying abroad.
+learning_resource_types: []
+ocw_type: CourseSection
 title: Related Resources
 uid: d2f902d9-468c-6119-dc7d-45807e269288
 ---

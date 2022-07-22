@@ -1,5 +1,10 @@
 ---
 content_type: page
+description: This section provides details on before-class preparations, class activities,
+  and after-class homework assignments.
+learning_resource_types:
+- Assignments
+ocw_type: CourseSection
 title: Assignments
 uid: 725772d5-7e7b-c1f6-de48-55bd713c6adc
 ---
@@ -60,7 +65,7 @@ Purchase the required course materials if you don't have them.
 
 
 1.  Memorize Basic Conversation for in-class performance.
-2.  Read "Recommended Study Procedures for Spoken Chinese Classes" in [Related Resources]({{< baseurl >}}/pages/related-resources) and follow the procedures for preparation.
+2.  Read "Recommended Study Procedures for Spoken Chinese Classes" in {{% resource_link d2f902d9-468c-6119-dc7d-45807e269288 "Related Resources" %}} and follow the procedures for preparation.
 3.  Be familiar with all the Supplementary Vocabulary on p. 228 and read the Grammatical and Cultural Notes on pp. 228–31.
 
 
@@ -87,7 +92,7 @@ Do \[BSC PE\] p. 175 and p. 225 _on a separate piece of paper_ and hand it in ne
 
 
 1.  Memorize Basic Conversation for in-class performance.
-2.  Read "Recommended Study Procedures for Spoken Chinese Classes" in [Related Resources]({{< baseurl >}}/pages/related-resources) and follow the procedures for preparation.
+2.  Read "Recommended Study Procedures for Spoken Chinese Classes" in {{% resource_link d2f902d9-468c-6119-dc7d-45807e269288 "Related Resources" %}} and follow the procedures for preparation.
 3.  Be familiar with all the Supplementary Vocabulary on p. 234 and read the Grammatical and Cultural Notes on pp. 234–9.
 
 
@@ -113,7 +118,7 @@ Do \[BSC PE\] p. 176 and p. 226 and hand it in next class.
 {{< tdopen >}}
 
 
-1.  Read "Recommended Study Procedures for Written Chinese Classes" in [Related Resources]({{< baseurl >}}/pages/related-resources) and follow the procedures for preparation.
+1.  Read "Recommended Study Procedures for Written Chinese Classes" in {{% resource_link d2f902d9-468c-6119-dc7d-45807e269288 "Related Resources" %}} and follow the procedures for preparation.
 2.  Memorize the new characters introduced in 5–1 and 5–2. Be sure to know how to write them correctly.
 3.  Read the _Simplified Character_ version of the Reading Exercises for 5–1 (pp. 193–6) and 5–2 (pp. 202–5). \*Do work _with audio files_ (not available on OCW due to copyright restrictions) on Reading Exercises.
 
@@ -149,7 +154,7 @@ Hand in the following homework in next class.
 
 
 1.  Memorize Basic Conversation for in-class performance.
-2.  Read "Recommended Study Procedures for Spoken Chinese Classes" in [Related Resources]({{< baseurl >}}/pages/related-resources) and follow the procedures for preparation.
+2.  Read "Recommended Study Procedures for Spoken Chinese Classes" in {{% resource_link d2f902d9-468c-6119-dc7d-45807e269288 "Related Resources" %}} and follow the procedures for preparation.
 3.  Be familiar with all the Supplementary Vocabulary on p. 241 and read the Grammatical and Cultural Notes on pp. 242–4.
 
 
@@ -176,7 +181,7 @@ Do \[BSC PE\] p. 177 and p. 227 _on a separate piece of paper_ and hand it in ne
 
 
 1.  Memorize Basic Conversation for in-class performance.
-2.  Read "Recommended Study Procedures for Spoken Chinese Classes" in [Related Resources]({{< baseurl >}}/pages/related-resources) and follow the procedures for preparation.
+2.  Read "Recommended Study Procedures for Spoken Chinese Classes" in {{% resource_link d2f902d9-468c-6119-dc7d-45807e269288 "Related Resources" %}} and follow the procedures for preparation.
 3.  Be familiar with all the Supplementary Vocabulary on p. 247 and read the Grammatical and Cultural Notes on pp. 247–9.
 
 
@@ -202,7 +207,7 @@ Do \[BSC PE\] p. 178 and p. 228 and hand it in next class.
 {{< tdopen >}}
 
 
-1.  Read "Recommended Study Procedures for Written Chinese Classes" in [Related Resources]({{< baseurl >}}/pages/related-resources) and follow the procedures for preparation.
+1.  Read "Recommended Study Procedures for Written Chinese Classes" in {{% resource_link d2f902d9-468c-6119-dc7d-45807e269288 "Related Resources" %}} and follow the procedures for preparation.
 2.  Memorize the new characters introduced in 5–3 and 5–4. Be sure to know how to write them correctly.
 3.  Read the _Simplified Character_ version of the Reading Exercises for 5–3 (pp. 211–4) and 5–4 (pp. 220–3). \*Do work _with audio files_ (not available on OCW due to copyright restrictions) on Reading Exercises.
 
@@ -290,7 +295,7 @@ n/a
 
 
 1.  Memorize Basic Conversation for in-class performance.
-2.  Read "Recommended Study Procedures for Spoken Chinese Classes" in [Related Resources]({{< baseurl >}}/pages/related-resources) and follow the procedures for preparation.
+2.  Read "Recommended Study Procedures for Spoken Chinese Classes" in {{% resource_link d2f902d9-468c-6119-dc7d-45807e269288 "Related Resources" %}} and follow the procedures for preparation.
 3.  Be familiar with all the Supplementary Vocabulary on p. 256 and read the Grammatical and Cultural Notes on pp. 256–8.
 
 
@@ -317,7 +322,7 @@ Do \[BSC PE\] p. 179 and p. 229 _on a separate piece of paper_ and hand it in ne
 
 
 1.  Memorize Basic Conversation for in-class performance.
-2.  Read "Recommended Study Procedures for Spoken Chinese Classes" in [Related Resources]({{< baseurl >}}/pages/related-resources) and follow the procedures for preparation.
+2.  Read "Recommended Study Procedures for Spoken Chinese Classes" in {{% resource_link d2f902d9-468c-6119-dc7d-45807e269288 "Related Resources" %}} and follow the procedures for preparation.
 3.  Be familiar with all the Supplementary Vocabulary on p. 261 and read the Grammatical and Cultural Notes on pp. 262–7.
 
 
@@ -343,7 +348,7 @@ Do \[BSC PE\] p. 180 and p. 230 and hand it in next class.
 {{< tdopen >}}
 
 
-1.  Read "Recommended Study Procedures for Written Chinese Classes" in [Related Resources]({{< baseurl >}}/pages/related-resources) and follow the procedures for preparation.
+1.  Read "Recommended Study Procedures for Written Chinese Classes" in {{% resource_link d2f902d9-468c-6119-dc7d-45807e269288 "Related Resources" %}} and follow the procedures for preparation.
 2.  Memorize the new characters introduced in 6–1 and 6–2. Be sure to know how to write them correctly.
 3.  Read the _Traditional Character_ version of the Reading Exercises for 6–1 (pp. 232–4) and 6–2 (pp. 240–3). \*Do work _with audio files_ (not available on OCW due to copyright restrictions) on Reading Exercises.
 
@@ -379,7 +384,7 @@ Hand in the following homework in next class.
 
 
 1.  Memorize Basic Conversation for in-class performance.
-2.  Read "Recommended Study Procedures for Spoken Chinese Classes" in [Related Resources]({{< baseurl >}}/pages/related-resources) and follow the procedures for preparation.
+2.  Read "Recommended Study Procedures for Spoken Chinese Classes" in {{% resource_link d2f902d9-468c-6119-dc7d-45807e269288 "Related Resources" %}} and follow the procedures for preparation.
 3.  Be familiar with all the Supplementary Vocabulary on p. 270 and read the Grammatical and Cultural Notes on pp. 270–3.
 
 
@@ -406,7 +411,7 @@ Do \[BSC PE\] p. 181 and p. 231 _on a separate piece of paper_ and hand it in ne
 
 
 1.  Memorize Basic Conversation for in-class performance.
-2.  Read "Recommended Study Procedures for Spoken Chinese Classes" in [Related Resources]({{< baseurl >}}/pages/related-resources) and follow the procedures for preparation.
+2.  Read "Recommended Study Procedures for Spoken Chinese Classes" in {{% resource_link d2f902d9-468c-6119-dc7d-45807e269288 "Related Resources" %}} and follow the procedures for preparation.
 3.  Be familiar with all the Supplementary Vocabulary on p. 276 and read the Grammatical and Cultural Notes on pp. 276–9.
 
 
@@ -432,7 +437,7 @@ Do \[BSC PE\] p. 182 and p. 232 and hand it in next class.
 {{< tdopen >}}
 
 
-1.  Read "Recommended Study Procedures for Written Chinese Classes" in [Related Resources]({{< baseurl >}}/pages/related-resources) and follow the procedures for preparation.
+1.  Read "Recommended Study Procedures for Written Chinese Classes" in {{% resource_link d2f902d9-468c-6119-dc7d-45807e269288 "Related Resources" %}} and follow the procedures for preparation.
 2.  Memorize the new characters introduced in 6–3 and 6–4. Be sure to know how to write them correctly.
 3.  Read the _Traditional Character_ version of the Reading Exercises for 6–3 (pp. 249–51) and 6–4 (pp. 258–61). \*Do work _with audio files_ (not available on OCW due to copyright restrictions) on Reading Exercises.
 
@@ -518,7 +523,7 @@ n/a
 {{< tdopen >}}
 
 
-1.  Follow the guidelines of Oral Report 1 in [Related Resources]({{< baseurl >}}/pages/related-resources). We look forward to your performance.
+1.  Follow the guidelines of Oral Report 1 in {{% resource_link d2f902d9-468c-6119-dc7d-45807e269288 "Related Resources" %}}. We look forward to your performance.
 
 
 {{< tdclose >}}
@@ -538,7 +543,7 @@ n/a
 
 
 1.  Memorize Basic Conversation for in-class performance.
-2.  Read "Recommended Study Procedures for Spoken Chinese Classes" in [Related Resources]({{< baseurl >}}/pages/related-resources) and follow the procedures for preparation.
+2.  Read "Recommended Study Procedures for Spoken Chinese Classes" in {{% resource_link d2f902d9-468c-6119-dc7d-45807e269288 "Related Resources" %}} and follow the procedures for preparation.
 3.  Be familiar with all the Supplementary Vocabulary on pp. 283–4 and read the Grammatical and Cultural Notes on pp. 284–8.
 
 
@@ -565,7 +570,7 @@ Do \[BSC PE\] p. 183 and p. 233 _on a separate piece of paper_ and hand it in ne
 
 
 1.  Memorize Basic Conversation for in-class performance.
-2.  Read "Recommended Study Procedures for Spoken Chinese Classes" in [Related Resources]({{< baseurl >}}/pages/related-resources) and follow the procedures for preparation.
+2.  Read "Recommended Study Procedures for Spoken Chinese Classes" in {{% resource_link d2f902d9-468c-6119-dc7d-45807e269288 "Related Resources" %}} and follow the procedures for preparation.
 3.  Be familiar with all the Supplementary Vocabulary on p. 291 and read the Grammatical and Cultural Notes on pp. 291–2.
 
 
@@ -591,7 +596,7 @@ Do \[BSC PE\] p. 184 and p. 234 and hand it in next class.
 {{< tdopen >}}
 
 
-1.  Read "Recommended Study Procedures for Written Chinese Classes" in [Related Resources]({{< baseurl >}}/pages/related-resources) and follow the procedures for preparation.
+1.  Read "Recommended Study Procedures for Written Chinese Classes" in {{% resource_link d2f902d9-468c-6119-dc7d-45807e269288 "Related Resources" %}} and follow the procedures for preparation.
 2.  Memorize the new characters introduced in 7–1 and 7–2. Be sure to know how to write them correctly.
 3.  Read the _Simplified Character_ version of the Reading Exercises for 7–1 (pp. 266–7) and 7–2 (pp. 272–3). \*Do work _with audio files_ (not available on OCW due to copyright restrictions) on Reading Exercises.
 
@@ -627,7 +632,7 @@ Hand in the following homework in next class.
 
 
 1.  Memorize Basic Conversation for in-class performance.
-2.  Read "Recommended Study Procedures for Spoken Chinese Classes" in [Related Resources]({{< baseurl >}}/pages/related-resources) and follow the procedures for preparation.
+2.  Read "Recommended Study Procedures for Spoken Chinese Classes" in {{% resource_link d2f902d9-468c-6119-dc7d-45807e269288 "Related Resources" %}} and follow the procedures for preparation.
 3.  Be familiar with all the Supplementary Vocabulary on p. 295 and read the Grammatical and Cultural Notes on pp. 295–7.
 
 
@@ -654,7 +659,7 @@ Do \[BSC PE\] p. 185 and p. 235 _on a separate piece of paper_ and hand it in ne
 
 
 1.  Memorize Basic Conversation for in-class performance.
-2.  Read "Recommended Study Procedures for Spoken Chinese Classes" in [Related Resources]({{< baseurl >}}/pages/related-resources) and follow the procedures for preparation.
+2.  Read "Recommended Study Procedures for Spoken Chinese Classes" in {{% resource_link d2f902d9-468c-6119-dc7d-45807e269288 "Related Resources" %}} and follow the procedures for preparation.
 3.  Be familiar with all the Supplementary Vocabulary on p. 300 and read the Grammatical and Cultural Notes on pp. 300–4.
 
 
@@ -680,7 +685,7 @@ Do \[BSC PE\] p. 186 and p. 236 and hand it in next class.
 {{< tdopen >}}
 
 
-1.  Read "Recommended Study Procedures for Written Chinese Classes" in [Related Resources]({{< baseurl >}}/pages/related-resources) and follow the procedures for preparation.
+1.  Read "Recommended Study Procedures for Written Chinese Classes" in {{% resource_link d2f902d9-468c-6119-dc7d-45807e269288 "Related Resources" %}} and follow the procedures for preparation.
 2.  Memorize the new characters introduced in 7–3 and 7–4. Be sure to know how to write them correctly.
 3.  Read the _Simplified Character_ version of the Reading Exercises for 7–3 (pp. 278–80) and 7–4 (pp. 285–6). \*Do work _with audio files_ (not available on OCW due to copyright restrictions) on Reading Exercises.
 
@@ -773,7 +778,7 @@ _Review Test 3_
 
 
 1.  Memorize Basic Conversation for in-class performance.
-2.  Read "Recommended Study Procedures for Spoken Chinese Classes" in [Related Resources]({{< baseurl >}}/pages/related-resources) and follow the procedures for preparation.
+2.  Read "Recommended Study Procedures for Spoken Chinese Classes" in {{% resource_link d2f902d9-468c-6119-dc7d-45807e269288 "Related Resources" %}} and follow the procedures for preparation.
 3.  Be familiar with all the Supplementary Vocabulary on pp. 309–10 and read the Grammatical and Cultural Notes on pp. 310–2.
 
 
@@ -800,7 +805,7 @@ Do \[BSC PE\] p. 187 and p. 237 _on a separate piece of paper_ and hand it in cl
 
 
 1.  Memorize Basic Conversation for in-class performance.
-2.  Read "Recommended Study Procedures for Spoken Chinese Classes" in [Related Resources]({{< baseurl >}}/pages/related-resources) and follow the procedures for preparation.
+2.  Read "Recommended Study Procedures for Spoken Chinese Classes" in {{% resource_link d2f902d9-468c-6119-dc7d-45807e269288 "Related Resources" %}} and follow the procedures for preparation.
 3.  Be familiar with all the Supplementary Vocabulary on pp. 314–5 and read the Grammatical and Cultural Notes on p. 315.
 
 
@@ -826,7 +831,7 @@ Do \[BSC PE\] p. 188 and p. 238 and hand it in next class.
 {{< tdopen >}}
 
 
-1.  Read "Recommended Study Procedures for Written Chinese Classes" in [Related Resources]({{< baseurl >}}/pages/related-resources) and follow the procedures for preparation.
+1.  Read "Recommended Study Procedures for Written Chinese Classes" in {{% resource_link d2f902d9-468c-6119-dc7d-45807e269288 "Related Resources" %}} and follow the procedures for preparation.
 2.  Memorize the new characters introduced in 8–1 and 8–2. Be sure to know how to write them correctly.
 3.  Read the _Traditional Character_ version of the Reading Exercises for 8–1 (pp. 296–8) and 8–2 (pp. 302–4). \*Do work _with audio files_ (not available on OCW due to copyright restrictions) on Reading Exercises.
 
@@ -862,7 +867,7 @@ Hand in the following homework in next class.
 
 
 1.  Memorize Basic Conversation for in-class performance.
-2.  Read "Recommended Study Procedures for Spoken Chinese Classes" in [Related Resources]({{< baseurl >}}/pages/related-resources) and follow the procedures for preparation.
+2.  Read "Recommended Study Procedures for Spoken Chinese Classes" in {{% resource_link d2f902d9-468c-6119-dc7d-45807e269288 "Related Resources" %}} and follow the procedures for preparation.
 3.  Be familiar with all the Supplementary Vocabulary on pp. 317–8 and read the Grammatical and Cultural Notes on pp. 318–20.
 
 
@@ -889,7 +894,7 @@ Do \[BSC PE\] p. 189 and p. 239 _on a separate piece of paper_ and hand it in ne
 
 
 1.  Memorize Basic Conversation for in-class performance.
-2.  Read "Recommended Study Procedures for Spoken Chinese Classes" in [Related Resources]({{< baseurl >}}/pages/related-resources) and follow the procedures for preparation.
+2.  Read "Recommended Study Procedures for Spoken Chinese Classes" in {{% resource_link d2f902d9-468c-6119-dc7d-45807e269288 "Related Resources" %}} and follow the procedures for preparation.
 3.  Be familiar with all the Supplementary Vocabulary on pp. 322–3 and read the Grammatical and Cultural Notes on pp. 323–5.
 
 
@@ -915,7 +920,7 @@ Do \[BSC PE\] p. 190 and p. 240 and hand it in next class.
 {{< tdopen >}}
 
 
-1.  Read "Recommended Study Procedures for Written Chinese Classes" in [Related Resources]({{< baseurl >}}/pages/related-resources) and follow the procedures for preparation.
+1.  Read "Recommended Study Procedures for Written Chinese Classes" in {{% resource_link d2f902d9-468c-6119-dc7d-45807e269288 "Related Resources" %}} and follow the procedures for preparation.
 2.  Memorize the new characters introduced in 8–3 and 8–4. Be sure to know how to write them correctly.
 3.  Read the _Traditional Character_ version of the Reading Exercises for 8–3 (pp. 309–11) and 8–4 (pp. 315–7). \*Do work _with audio files_ (not available on OCW due to copyright restrictions) on Reading Exercises.
 
@@ -1028,7 +1033,7 @@ n/a
 36
 {{< tdclose >}}
 {{< tdopen >}}
-Follow the guidelines of Oral Report 2 in [Related Resources]({{< baseurl >}}/pages/related-resources). We look forward to your performance.
+Follow the guidelines of Oral Report 2 in {{% resource_link d2f902d9-468c-6119-dc7d-45807e269288 "Related Resources" %}}. We look forward to your performance.
 {{< tdclose >}}
 {{< tdopen >}}
 _Oral Report 2_
@@ -1046,7 +1051,7 @@ n/a
 
 
 1.  Memorize Basic Conversation for in-class performance.
-2.  Read "Recommended Study Procedures for Spoken Chinese Classes" in [Related Resources]({{< baseurl >}}/pages/related-resources) and follow the procedures for preparation.
+2.  Read "Recommended Study Procedures for Spoken Chinese Classes" in {{% resource_link d2f902d9-468c-6119-dc7d-45807e269288 "Related Resources" %}} and follow the procedures for preparation.
 3.  Be familiar with all the Supplementary Vocabulary on p. 330 and read the Grammatical and Cultural Notes on pp. 330–4.
 
 
@@ -1072,7 +1077,7 @@ Do \[BSC PE\] p. 191 and p. 241 _on a separate piece of paper_ and hand it in ne
 {{< tdopen >}}
 
 
-1.  Read "Recommended Study Procedures for Written Chinese Classes" in [Related Resources]({{< baseurl >}}/pages/related-resources) and follow the procedures for preparation.
+1.  Read "Recommended Study Procedures for Written Chinese Classes" in {{% resource_link d2f902d9-468c-6119-dc7d-45807e269288 "Related Resources" %}} and follow the procedures for preparation.
 2.  Memorize the new characters introduced in 9–1 and 9–2. Be sure to know how to write them correctly.
 3.  Read the _Simplified Character_ version of the Reading Exercises for 9–1 (pp. 319–21) and 9–2 (pp. 326–8). \*Do work _with audio files_ (not available on OCW due to copyright restrictions) on Reading Exercises.
 
@@ -1108,7 +1113,7 @@ Hand in the following homework in next class.
 
 
 1.  Memorize Basic Conversation for in-class performance.
-2.  Read "Recommended Study Procedures for Spoken Chinese Classes" in [Related Resources]({{< baseurl >}}/pages/related-resources) and follow the procedures for preparation.
+2.  Read "Recommended Study Procedures for Spoken Chinese Classes" in {{% resource_link d2f902d9-468c-6119-dc7d-45807e269288 "Related Resources" %}} and follow the procedures for preparation.
 3.  Be familiar with all the Supplementary Vocabulary on p. 336 and read the Grammatical and Cultural Notes on pp. 337–9.
 
 
@@ -1134,7 +1139,7 @@ Do \[BSC PE\] p. 192 and p. 242 and hand it in next class.
 {{< tdopen >}}
 
 
-1.  Read "Recommended Study Procedures for Written Chinese Classes" in [Related Resources]({{< baseurl >}}/pages/related-resources) and follow the procedures for preparation.
+1.  Read "Recommended Study Procedures for Written Chinese Classes" in {{% resource_link d2f902d9-468c-6119-dc7d-45807e269288 "Related Resources" %}} and follow the procedures for preparation.
 2.  Memorize the new characters introduced in 9–3 and 9–4. Be sure to know how to write them correctly.
 3.  Read the _Simplified Character_ version of the Reading Exercises for 9–3 (pp. 334–5) and 9–4 (pp. 340–1). \*Do work _with audio files_ (not available on OCW due to copyright restrictions) on Reading Exercises.
 
@@ -1170,7 +1175,7 @@ Hand in the following homework in next class.
 
 
 1.  Memorize Basic Conversation for in-class performance.
-2.  Read "Recommended Study Procedures for Spoken Chinese Classes" in [Related Resources]({{< baseurl >}}/pages/related-resources) and follow the procedures for preparation.
+2.  Read "Recommended Study Procedures for Spoken Chinese Classes" in {{% resource_link d2f902d9-468c-6119-dc7d-45807e269288 "Related Resources" %}} and follow the procedures for preparation.
 3.  Be familiar with all the Supplementary Vocabulary on p. 341 and read the Grammatical and Cultural Notes on pp. 342–5.
 
 
@@ -1196,7 +1201,7 @@ Do \[BSC PE\] p. 193 and p. 243 _on a separate piece of paper_ and hand it in ne
 {{< tdopen >}}
 
 
-1.  Read "Recommended Study Procedures for Written Chinese Classes" in [Related Resources]({{< baseurl >}}/pages/related-resources) and follow the procedures for preparation.
+1.  Read "Recommended Study Procedures for Written Chinese Classes" in {{% resource_link d2f902d9-468c-6119-dc7d-45807e269288 "Related Resources" %}} and follow the procedures for preparation.
 2.  Memorize the new characters introduced in 10–1 and 10–2. Be sure to know how to write them correctly.
 3.  Read the _Traditional Character_ version of the Reading Exercises for 10–1 (pp. 349–51) and 10–2 (pp. 356–8). \*Do work _with audio files_ (not available on OCW due to copyright restrictions) on Reading Exercises.
 
@@ -1232,7 +1237,7 @@ Hand in the following homework in next class.
 
 
 1.  Memorize Basic Conversation for in-class performance.
-2.  Read "Recommended Study Procedures for Spoken Chinese Classes" in [Related Resources]({{< baseurl >}}/pages/related-resources) and follow the procedures for preparation.
+2.  Read "Recommended Study Procedures for Spoken Chinese Classes" in {{% resource_link d2f902d9-468c-6119-dc7d-45807e269288 "Related Resources" %}} and follow the procedures for preparation.
 3.  Be familiar with all the Supplementary Vocabulary on p. 348 and read the Grammatical and Cultural Notes on pp. 348–51.
 
 
@@ -1258,7 +1263,7 @@ Do \[BSC PE\] p. 194 and p. 244 and hand it in next class.
 {{< tdopen >}}
 
 
-1.  Read "Recommended Study Procedures for Written Chinese Classes" in [Related Resources]({{< baseurl >}}/pages/related-resources) and follow the procedures for preparation.
+1.  Read "Recommended Study Procedures for Written Chinese Classes" in {{% resource_link d2f902d9-468c-6119-dc7d-45807e269288 "Related Resources" %}} and follow the procedures for preparation.
 2.  Memorize the new characters introduced in 10–3 and 10–4. Be sure to know how to write them correctly.
 3.  Read the _Simplified Character_ version of the Reading Exercises for 10–3 (pp. 361–4) and 10–4 (pp. 370–1). \*Do work _with audio files_ (not available on OCW due to copyright restrictions) on Reading Exercises.
 
@@ -1342,7 +1347,7 @@ n/a
 47
 {{< tdclose >}}
 {{< tdopen >}}
-Follow the guidelines of Oral Report 3 in [Related Resources]({{< baseurl >}}/pages/related-resources). We look forward to your performance.
+Follow the guidelines of Oral Report 3 in {{% resource_link d2f902d9-468c-6119-dc7d-45807e269288 "Related Resources" %}}. We look forward to your performance.
 {{< tdclose >}}
 {{< tdopen >}}
 _Oral Report 3_
@@ -1383,16 +1388,16 @@ _FACT:_ _Between Traditional and Simplified_
 {{< tdopen >}}
 49
 {{< tdclose >}}
-{{< tdopen >}}
+{{< tdopen rowspan="2" >}}
 
 
 _Final Oral Interview: All contents of \[BSC\] Unit 6 to Unit 10_
 
-Follow the preparation guidelines of Final Oral Interview in [Related Resources]({{< baseurl >}}/pages/related-resources). We look forward to seeing what you can achieve with the Chinese you have learned from CHN II.
+Follow the preparation guidelines of Final Oral Interview in {{% resource_link d2f902d9-468c-6119-dc7d-45807e269288 "Related Resources" %}}. We look forward to seeing what you can achieve with the Chinese you have learned from CHN II.
 
 
 {{< tdclose >}}
-{{< tdopen >}}
+{{< tdopen rowspan="2" >}}
 
 
 _Final Oral Interview_
@@ -1401,7 +1406,7 @@ No regular class! Show up at your Final Oral Interview on time!
 
 
 {{< tdclose >}}
-{{< tdopen >}}
+{{< tdopen rowspan="2" >}}
  n/a
 {{< tdclose >}}
 
