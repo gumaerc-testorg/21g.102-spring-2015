@@ -68,7 +68,7 @@ _You will need all four textbooks right away!_
 Academic Conduct
 ----------------
 
-Please go to the {{% resource_link "0871ac42-901a-415b-a29c-3cccefb5d69f" "MIT Plagiarism website" %}} and read through the information carefully to prevent unintentional violations.
+Please go to the [MIT Plagiarism website](http://integrity.mit.edu/) and read through the information carefully to prevent unintentional violations.
 
 _"MIT assumes that all students come to the Institute for a serious purpose and expects them to be responsible individuals who demand of themselves high standards of honesty and personal conduct. Cheating, plagiarism, unauthorized collaboration, deliberate interference with the integrity of the work of others, fabrication or falsification of data, and other forms of academic dishonesty are considered serious offenses for which disciplinary penalties can be imposed."_
 
