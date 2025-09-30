@@ -61,10 +61,10 @@ _Always bring your \[BWC\] textbook to class._ It's not necessary to bring \[BWC
 For MIT Students Interested in Working or Teaching Abroad
 ---------------------------------------------------------
 
-1.  The [MIT China Program](http://misti.mit.edu/mit-china), one of the MISTI (MIT Science and Technology Initiative) programs, sponsors students working or teaching in Mainland China, Hong Kong, Taiwan, or Singapore for a summer, six months, or a school year.
+1.  The {{% resource_link "ec418cd4-9764-4f43-b65e-33ae228a859f" "MIT China Program" %}}, one of the MISTI (MIT Science and Technology Initiative) programs, sponsors students working or teaching in Mainland China, Hong Kong, Taiwan, or Singapore for a summer, six months, or a school year.
 2.  CETI (Chinese Education and Technology Initiative), a student-run group affiliated with MISTI China, sponsors students teaching high-school students science and technology over the summer.
 
 For MIT Students Interested in Studying Abroad?
 -----------------------------------------------
 
-Check out the [Global Education Office website](https://studyabroad.mit.edu/study-abroad/mit-study-abroad-programs) for opportunities and scholarships for studying Chinese.
+Check out the {{% resource_link "129c7bcb-bebc-4e1d-9361-1ea3522e686e" "Global Education Office website" %}} for opportunities and scholarships for studying Chinese.
